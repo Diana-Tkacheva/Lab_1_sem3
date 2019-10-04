@@ -1,17 +1,40 @@
 ﻿
 using System;
+using System.Text;
 
 namespace Lab_1_sem3
 {
     class Program
     {
+
         static void Main(string[] args)
         {
+            Encoding src = Console.OutputEncoding;
+            Console.OutputEncoding = Encoding.UTF8;
             Console.WriteLine("Ткачева Диана, ИУ5-33Б\n");
             Console.WriteLine("Решим биквадратное уравнение:");
-            double val_a = getDbl("Введите коэффициент А: ");
-            double val_b = getDbl("Введите коэффициент B: ");
-            double val_c = getDbl("Введите коэффициент C: ");
+            double val_a = 0;
+            bool a_cor = false;
+            double val_b = 0;
+            bool b_cor = false;
+            double val_c = 0;
+            bool c_cor = false;
+            if (args != null && args.Length == 3)
+            {
+                a_cor = double.TryParse(args[0], out val_a);
+                b_cor = double.TryParse(args[1], out val_b);
+                c_cor = double.TryParse(args[2], out val_c);
+            }
+            if (!a_cor || !b_cor || !c_cor)
+            {
+                if (!a_cor)
+                    val_a = getDbl("Введите коэффициент А: ");
+                if (!b_cor)
+                    val_b = getDbl("Введите коэффициент B: ");
+                if (!c_cor)
+                    val_c = getDbl("Введите коэффициент C: ");
+            }
+
             Console.WriteLine($"{val_a}x^4 + {val_b}x^2 + {val_c}=0");
             Console.WriteLine("Cделаем замену x^2=t и решим квадратное уравнение:");
             Console.WriteLine($"{val_a}t^2 + {val_b}t + {val_c}=0");
@@ -86,6 +109,7 @@ namespace Lab_1_sem3
             }
             Console.ResetColor();
             Console.ReadLine();
+            Console.OutputEncoding = src;
         }
         static double getDbl(string message)
         {
@@ -97,8 +121,8 @@ namespace Lab_1_sem3
                 Console.Write(message);
                 resStr = Console.ReadLine();
                 correct = double.TryParse(resStr, out resDbl);
-                if (!correct)
-                    Console.WriteLine("Введите вещественное число!");
+                //if (!correct)
+                //    Console.WriteLine("Введите вещественное число!");
             }
             while (!correct);
             return resDbl;
