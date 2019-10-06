@@ -171,8 +171,8 @@ namespace Lab_1_sem3
                     Console.Write(message);
                     resStr = Console.ReadLine();
                     correct = double.TryParse(resStr, out resDbl);
-                    //if (!correct)
-                    //    Console.WriteLine("Введите вещественное число!");
+                    if (!correct)
+                        Console.WriteLine("Введите вещественное число!");
                 }
                 while (!correct);
                 return resDbl;
