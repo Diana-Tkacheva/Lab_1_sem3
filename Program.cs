@@ -11,7 +11,7 @@ namespace Lab_1_sem3
         {
             Encoding src = Console.OutputEncoding;
             Console.OutputEncoding = Encoding.UTF8;
-            Console.WriteLine("Ткачева Диана, ИУ5-33Б\n");
+            Console.Title = "Ткачева Диана, ИУ5-33Б\n";
             Console.WriteLine("Решим биквадратное уравнение:");
             double val_a = 0;
             bool a_cor = false;
