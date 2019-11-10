@@ -9,3 +9,4 @@ C:\Labs\Lab_1_sem3\bin\Debug\Lab_1_sem3.exe
 C:\Labs\Lab_1_sem3\bin\Debug\Lab_1_sem3.pdb
 C:\Labs\Lab_1_sem3\obj\Debug\Lab_1_sem3.exe
 C:\Labs\Lab_1_sem3\obj\Debug\Lab_1_sem3.pdb
+C:\Labs\Lab_1_sem3\obj\Debug\Lab_1_sem3.csprojAssemblyReference.cache
