@@ -1,0 +1,6 @@
+C:\Labs\Lab_2_sem3\bin\Debug\Lab_2_sem3.exe.config
+C:\Labs\Lab_2_sem3\bin\Debug\Lab_2_sem3.exe
+C:\Labs\Lab_2_sem3\bin\Debug\Lab_2_sem3.pdb
+C:\Labs\Lab_2_sem3\obj\Debug\Lab_2_sem3.csprojAssemblyReference.cache
+C:\Labs\Lab_2_sem3\obj\Debug\Lab_2_sem3.exe
+C:\Labs\Lab_2_sem3\obj\Debug\Lab_2_sem3.pdb
