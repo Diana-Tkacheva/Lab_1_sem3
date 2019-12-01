@@ -16,3 +16,9 @@ C:\Labs\sem3\lab_1\bin\Debug\Lab_1_sem3.pdb
 C:\Labs\sem3\lab_1\obj\Debug\Lab_1_sem3.csprojAssemblyReference.cache
 C:\Labs\sem3\lab_1\obj\Debug\Lab_1_sem3.exe
 C:\Labs\sem3\lab_1\obj\Debug\Lab_1_sem3.pdb
+C:\Labs\Lab_1_sem3\lab_1\bin\Debug\Lab_1_sem3.exe.config
+C:\Labs\Lab_1_sem3\lab_1\bin\Debug\Lab_1_sem3.exe
+C:\Labs\Lab_1_sem3\lab_1\bin\Debug\Lab_1_sem3.pdb
+C:\Labs\Lab_1_sem3\lab_1\obj\Debug\Lab_1_sem3.csprojAssemblyReference.cache
+C:\Labs\Lab_1_sem3\lab_1\obj\Debug\Lab_1_sem3.exe
+C:\Labs\Lab_1_sem3\lab_1\obj\Debug\Lab_1_sem3.pdb

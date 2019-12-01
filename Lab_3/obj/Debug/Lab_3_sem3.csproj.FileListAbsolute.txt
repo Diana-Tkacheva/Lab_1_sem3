@@ -8,3 +8,13 @@ C:\Labs\sem3\Lab_3_sem3\obj\Debug\Lab_3_sem3.csprojAssemblyReference.cache
 C:\Labs\sem3\Lab_3_sem3\obj\Debug\Lab_3_sem3.csproj.CopyComplete
 C:\Labs\sem3\Lab_3_sem3\obj\Debug\Lab_3_sem3.exe
 C:\Labs\sem3\Lab_3_sem3\obj\Debug\Lab_3_sem3.pdb
+C:\Labs\Lab_1_sem3\Lab_3\bin\Debug\Lab_3_sem3.exe.config
+C:\Labs\Lab_1_sem3\Lab_3\bin\Debug\Lab_3_sem3.exe
+C:\Labs\Lab_1_sem3\Lab_3\bin\Debug\Lab_3_sem3.pdb
+C:\Labs\Lab_1_sem3\Lab_3\bin\Debug\Lab_2_sem3.exe
+C:\Labs\Lab_1_sem3\Lab_3\bin\Debug\Lab_2_sem3.pdb
+C:\Labs\Lab_1_sem3\Lab_3\bin\Debug\Lab_2_sem3.exe.config
+C:\Labs\Lab_1_sem3\Lab_3\obj\Debug\Lab_3_sem3.csprojAssemblyReference.cache
+C:\Labs\Lab_1_sem3\Lab_3\obj\Debug\Lab_3_sem3.csproj.CopyComplete
+C:\Labs\Lab_1_sem3\Lab_3\obj\Debug\Lab_3_sem3.exe
+C:\Labs\Lab_1_sem3\Lab_3\obj\Debug\Lab_3_sem3.pdb
