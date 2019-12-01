@@ -1,0 +1,9 @@
+C:\Labs\Lab_1_sem3\Lab_4\bin\Debug\Lab_4.exe.config
+C:\Labs\Lab_1_sem3\Lab_4\bin\Debug\Lab_4.exe
+C:\Labs\Lab_1_sem3\Lab_4\bin\Debug\Lab_4.pdb
+C:\Labs\Lab_1_sem3\Lab_4\obj\Debug\Lab_4.csprojAssemblyReference.cache
+C:\Labs\Lab_1_sem3\Lab_4\obj\Debug\Lab_4.Properties.Resources.resources
+C:\Labs\Lab_1_sem3\Lab_4\obj\Debug\Lab_4.csproj.GenerateResource.cache
+C:\Labs\Lab_1_sem3\Lab_4\obj\Debug\Lab_4.exe
+C:\Labs\Lab_1_sem3\Lab_4\obj\Debug\Lab_4.pdb
+C:\Labs\Lab_1_sem3\Lab_4\obj\Debug\Lab_4.Form1.resources
