@@ -1,0 +1,5 @@
+C:\Labs\Lab_1_sem3\Lab_5_sem3\bin\Debug\Lab_5_sem3.dll
+C:\Labs\Lab_1_sem3\Lab_5_sem3\bin\Debug\Lab_5_sem3.pdb
+C:\Labs\Lab_1_sem3\Lab_5_sem3\obj\Debug\Lab_5_sem3.csprojAssemblyReference.cache
+C:\Labs\Lab_1_sem3\Lab_5_sem3\obj\Debug\Lab_5_sem3.dll
+C:\Labs\Lab_1_sem3\Lab_5_sem3\obj\Debug\Lab_5_sem3.pdb

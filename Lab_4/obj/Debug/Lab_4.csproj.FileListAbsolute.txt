@@ -7,3 +7,6 @@ C:\Labs\Lab_1_sem3\Lab_4\obj\Debug\Lab_4.csproj.GenerateResource.cache
 C:\Labs\Lab_1_sem3\Lab_4\obj\Debug\Lab_4.exe
 C:\Labs\Lab_1_sem3\Lab_4\obj\Debug\Lab_4.pdb
 C:\Labs\Lab_1_sem3\Lab_4\obj\Debug\Lab_4.Form1.resources
+C:\Labs\Lab_1_sem3\Lab_4\bin\Debug\Lab_5_sem3.dll
+C:\Labs\Lab_1_sem3\Lab_4\bin\Debug\Lab_5_sem3.pdb
+C:\Labs\Lab_1_sem3\Lab_4\obj\Debug\Lab_4.csproj.CopyComplete
