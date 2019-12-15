@@ -26,9 +26,10 @@ namespace Lab_4
                 var watcher = new Stopwatch();
                 watcher.Start();
                 var fileContent = File.ReadAllText(openFileDialog1.FileName);
-                foreach(var word in fileContent.Split(' '))
+                char[] sep = new char[] { ' ', '.', ',', ':', ';', '!', '?', '/', '\t', '\r', '\n' };
+                foreach (var word in fileContent.Split(sep))
                 {
-                    if (!words.Contains(word))
+                    if (!string.IsNullOrEmpty(word) && !words.Contains(word))
                     {
                         words.Add(word);
                     }
@@ -46,6 +47,9 @@ namespace Lab_4
                 MessageBox.Show("search string not set");
                 return;
             }
+            listBox1.BeginUpdate();
+            listBox1.Items.Clear();
+            listBox1.EndUpdate();
             var watcher = new Stopwatch();
             watcher.Start();
             if (words.Contains(sample))
