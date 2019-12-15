@@ -41,24 +41,30 @@ namespace Lab_4
 
         private void button2_Click(object sender, EventArgs e)
         {
+            if (words.Count == 0)
+            {
+                MessageBox.Show("Необходимо выбрать файл");
+            }
             var sample = textBox2.Text;
             if (string.IsNullOrWhiteSpace(sample))
             {
-                MessageBox.Show("search string not set");
+                MessageBox.Show("Не введено слово для поиска!");
                 return;
             }
             listBox1.BeginUpdate();
             listBox1.Items.Clear();
-            listBox1.EndUpdate();
             var watcher = new Stopwatch();
             watcher.Start();
-            if (words.Contains(sample))
+
+            foreach (var item in words)
             {
-                listBox1.BeginUpdate();
-                listBox1.Items.Add(sample);
-                listBox1.EndUpdate();
+                if (item.ToUpper().Contains(sample.ToUpper()))
+                {
+                    listBox1.Items.Add(item);
+                }
             }
             watcher.Stop();
+            listBox1.EndUpdate();
             label1.Text = watcher.Elapsed.ToString();
         }
     }
