@@ -1,0 +1,6 @@
+C:\Labs\Lab_1_sem3\Lab_6_2\bin\Debug\Lab_6_2.exe.config
+C:\Labs\Lab_1_sem3\Lab_6_2\bin\Debug\Lab_6_2.exe
+C:\Labs\Lab_1_sem3\Lab_6_2\bin\Debug\Lab_6_2.pdb
+C:\Labs\Lab_1_sem3\Lab_6_2\obj\Debug\Lab_6_2.exe
+C:\Labs\Lab_1_sem3\Lab_6_2\obj\Debug\Lab_6_2.pdb
+C:\Labs\Lab_1_sem3\Lab_6_2\obj\Debug\Lab_6_2.csprojAssemblyReference.cache
