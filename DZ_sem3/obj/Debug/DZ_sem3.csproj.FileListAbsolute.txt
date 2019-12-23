@@ -1,0 +1,12 @@
+C:\Labs\Lab_1_sem3\DZ_sem3\obj\Debug\DZ_sem3.csprojAssemblyReference.cache
+C:\Labs\Lab_1_sem3\DZ_sem3\obj\Debug\DZ_sem3.Properties.Resources.resources
+C:\Labs\Lab_1_sem3\DZ_sem3\obj\Debug\DZ_sem3.csproj.GenerateResource.cache
+C:\Labs\Lab_1_sem3\DZ_sem3\bin\Debug\DZ_sem3.exe.config
+C:\Labs\Lab_1_sem3\DZ_sem3\bin\Debug\DZ_sem3.exe
+C:\Labs\Lab_1_sem3\DZ_sem3\bin\Debug\DZ_sem3.pdb
+C:\Labs\Lab_1_sem3\DZ_sem3\bin\Debug\Lab_5_sem3.dll
+C:\Labs\Lab_1_sem3\DZ_sem3\bin\Debug\Lab_5_sem3.pdb
+C:\Labs\Lab_1_sem3\DZ_sem3\obj\Debug\DZ_sem3.csproj.CopyComplete
+C:\Labs\Lab_1_sem3\DZ_sem3\obj\Debug\DZ_sem3.exe
+C:\Labs\Lab_1_sem3\DZ_sem3\obj\Debug\DZ_sem3.pdb
+C:\Labs\Lab_1_sem3\DZ_sem3\obj\Debug\DZ_sem3.Form1.resources

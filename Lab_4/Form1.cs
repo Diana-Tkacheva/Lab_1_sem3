@@ -45,6 +45,7 @@ namespace Lab_4
             if (words.Count == 0)
             {
                 MessageBox.Show("Необходимо выбрать файл");
+                return;
             }
             var sample = textBox2.Text;
             if (string.IsNullOrWhiteSpace(sample))
@@ -74,6 +75,7 @@ namespace Lab_4
             if (words.Count == 0)
             {
                 MessageBox.Show("Необходимо выбрать файл");
+                return;
             }
             var sample = textBox2.Text.ToUpper();
             if (string.IsNullOrWhiteSpace(sample))
@@ -85,6 +87,7 @@ namespace Lab_4
             if (!int.TryParse(textBox3.Text, out maxDistance))
             {
                 MessageBox.Show("Введите максимальное расстояние поиска!");
+                return;
             }
             listBox1.BeginUpdate();
             listBox1.Items.Clear();
